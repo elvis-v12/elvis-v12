@@ -41,13 +41,6 @@
 
 ---
 
-## 📌 Proyectos Destacados
-
-- [Portafolio Personal](https://github.com/elvis-v12/Portafolio-personal): Sitio web que muestra mis proyectos y habilidades.
-- [Software de Análisis de Tesis](https://github.com/elvis-v12/Soffware-Analisis-tesis): Herramienta para facilitar el análisis de tesis académicas.
-
----
-
 ## 🧠 Intereses
 
 - Desarrollo de aplicaciones móviles con Kotlin.
