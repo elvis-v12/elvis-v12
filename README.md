@@ -25,7 +25,8 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ---
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=elvis-v12)&theme=dark&hide_border=true&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
+--
 ## 📊 Estadísticas de GitHub
 
 [![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=elvis-v12&show_icons=true&theme=radical)](https://github.com/elvis-v12)
