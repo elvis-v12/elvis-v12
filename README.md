@@ -39,7 +39,10 @@
 [![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=elvis-v12&layout=compact&theme=radical)](https://github.com/elvis-v12)
 
 ---
+## ⌨️ Actividad de Código (WakaTime)
 
+[![Elvis's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=elvis-v12)](https://github.com/anuraghazra/github-readme-stats)
+---
 ## 📫 Conecta conmigo
 
 - 🌐 [ORCID](https://orcid.org/0000-0001-5647-8191)
