@@ -16,7 +16,7 @@ Soy **Analista de Ciberseguridad orientado al Blue Team**, con experiencia en:
 ---
 
 
-## 🧰 Herramientas Clave  
+## Herramientas Clave  
 
 ![Wazuh](https://img.shields.io/badge/Wazuh-00599C?style=for-the-badge&logo=wazuh&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
@@ -28,7 +28,7 @@ Soy **Analista de Ciberseguridad orientado al Blue Team**, con experiencia en:
 
 ---
 
-## 📊 Estadísticas de GitHub  
+##  Estadísticas de GitHub  
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=elvis-v12&theme=dark&hide_border=true)](https://git.io/streak-stats)  
 [![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=elvis-v12&show_icons=true&theme=radical)](https://github.com/elvis-v12)  
