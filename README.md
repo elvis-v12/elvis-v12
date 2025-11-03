@@ -1,77 +1,31 @@
 # 🛡️ ¡Hola! Soy Elvis Antonio Vega Miranda  
 
 🎯 **Analista Junior de Ciberseguridad (Blue Team | SOC)**  
-Apasionado por la defensa digital, el análisis forense y la detección de amenazas. Mi misión es fortalecer la seguridad de la información en entornos corporativos mediante la implementación de herramientas SIEM, técnicas de respuesta ante incidentes y políticas de hardening.
+Apasionado por la defensa digital, el análisis forense y la detección de amenazas. Mi objetivo es proteger infraestructuras tecnológicas mediante la monitorización activa, la respuesta ante incidentes y la aplicación de buenas prácticas de seguridad.
 
 ---
 
 ## 👨‍💻 Perfil Profesional  
 
-Soy **Analista Junior de Ciberseguridad** con enfoque en **Blue Team**, especializado en:  
-- **Monitoreo de seguridad con Wazuh (SIEM)**  
-- **Análisis forense digital y respuesta ante incidentes**  
-- **Aplicación de marcos MITRE ATT&CK**  
-- **Hardening de sistemas bajo estándares ISO 27001**
+Soy **Analista de Ciberseguridad orientado al Blue Team**, con experiencia en:  
+- **Monitoreo con Wazuh (SIEM)** y análisis de logs.  
+- **Análisis forense digital** en entornos Windows y Linux.  
+- **Aplicación del marco MITRE ATT&CK** para detección y correlación de eventos.  
+- **Hardening de sistemas** bajo estándares **ISO 27001**.  
 
-Actualmente continúo fortaleciendo mis capacidades en **detección, análisis y mitigación de amenazas** a través de **Hack The Box Academy** y proyectos académicos orientados a la simulación de ataques en entornos corporativos.
-
----
-
-## 🧩 Experiencia
-
-### 🏛️ Universidad César Vallejo SAC  
-📍 Lima, Perú | 📅 Abril 2023 – Actualidad  
-**Desarrollo de Proyectos Tecnológicos**
-- Implementé un **laboratorio forense con Wazuh y Windows Server** para simular incidentes de seguridad.  
-- Apliqué **hardening** y pruebas de vulnerabilidad conforme a **ISO 27001**.  
-- Desarrollé un **prototipo con IA** para detección de anomalías.  
-- Apliqué **Sysmon + MITRE ATT&CK** para análisis de eventos y detección de patrones maliciosos.  
+Actualmente fortalezco mis capacidades en detección y mitigación de amenazas a través de **Hack The Box Academy** y proyectos personales de laboratorio forense.
 
 ---
 
 ## 🎓 Educación  
 
-- **Ingeniería de Sistemas** – Universidad César Vallejo  
-- **Inglés** – Speexx Centro de Idiomas *(Nivel 6 – Básico/Intermedio)*  
-- **Computación I – IV (Cisco Networking Academy)**: Redes, Routing, Switching y Ciberseguridad  
+- 🎓 **Ingeniería de Sistemas** – Universidad César Vallejo (UCV)  
+- 🌐 **Computación I – IV** *(Cisco Networking Academy)*: Redes, Routing, Switching y Ciberseguridad  
+- 🗣️ **Inglés** – Speexx Centro de Idiomas *(Nivel 6 – Básico/Intermedio)*  
 
 ---
 
-## 🏅 Certificaciones
-
-- 🛡️ **Hacking Ético Profesional (C|EHP)** – CFC Security (2025)  
-- 🧩 **CyberSOC (C|CS)** – Universidad Nacional de Ingeniería (UNI)  
-- 🌐 **CCNA – Switching, Routing and Wireless Essentials** – Cisco Networking Academy (2025)  
-- 🐍 **Python Essentials 1 & 2** – Cisco Networking Academy (2025)  
-- 🐧 **Fundamentos de Linux** – Cisco Networking Academy (2024)  
-- 💻 **Complete Ethical Hacking Course: Go From Zero to Hero** – Udemy (2025)  
-- ⚙️ **Hack The Box Academy – Cracking into HTB (59%)**
-
----
-
-## 🧠 Competencias Técnicas
-
-**Ciberseguridad**  
-- SIEM: Wazuh, Security Onion  
-- Monitoreo y análisis forense: Sysmon, Volatility, Wireshark  
-- Frameworks y estándares: MITRE ATT&CK, ISO 27001  
-- Endurecimiento del sistema: Hardening OS, control de acceso, políticas GPO  
-
-**Sistemas y Redes**  
-- Windows Server, Ubuntu Server  
-- Routing & Switching (CCNA)  
-- Firewalls y segmentación de red  
-
-**Scripting y Automatización**  
-- Python (scripts de seguridad)  
-- Bash y PowerShell  
-
-**Herramientas de apoyo**  
-- Git, SQL Server, Ansible  
-
----
-
-## 📡 Herramientas Clave
+## 🧰 Herramientas Clave  
 
 ![Wazuh](https://img.shields.io/badge/Wazuh-00599C?style=for-the-badge&logo=wazuh&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
@@ -80,6 +34,14 @@ Actualmente continúo fortaleciendo mis capacidades en **detección, análisis y
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-FF0000?style=for-the-badge&logo=mitre&logoColor=white)
 ![Security Onion](https://img.shields.io/badge/Security%20Onion-4B0082?style=for-the-badge)
 ![Sysmon](https://img.shields.io/badge/Sysmon-000000?style=for-the-badge&logo=windows&logoColor=white)
+
+---
+
+## 📊 Estadísticas de GitHub  
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=elvis-v12&theme=dark&hide_border=true)](https://git.io/streak-stats)  
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=elvis-v12&show_icons=true&theme=radical)](https://github.com/elvis-v12)  
+[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=elvis-v12&layout=compact&theme=radical)](https://github.com/elvis-v12)
 
 ---
 
@@ -93,14 +55,14 @@ Actualmente continúo fortaleciendo mis capacidades en **detección, análisis y
 
 ---
 
-## 🔍 Intereses
+## 🔍 Intereses  
 
-- Monitoreo SOC y respuesta ante incidentes  
-- Análisis forense en entornos Windows y Linux  
-- Implementación de SIEMs y correlación de eventos  
-- Investigación de amenazas y defensa en profundidad  
-- Ciberinteligencia y automatización de alertas  
+- Monitoreo y análisis de eventos SOC  
+- Respuesta ante incidentes y análisis forense  
+- Detección y mitigación de amenazas cibernéticas  
+- Implementación de SIEM y automatización de alertas  
+- Investigación de seguridad ofensiva/defensiva  
 
 ---
 
-> 💬 *“La seguridad no es un estado, es un proceso constante de mejora.”*
+> 💬 *“La seguridad no es un destino, es un proceso continuo de mejora y vigilancia.”*
