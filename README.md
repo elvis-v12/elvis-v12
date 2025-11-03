@@ -13,17 +13,8 @@ Soy **Analista de Ciberseguridad orientado al Blue Team**, con experiencia en:
 - **Aplicación del marco MITRE ATT&CK** para detección y correlación de eventos.  
 - **Hardening de sistemas** bajo estándares **ISO 27001**.  
 
-Actualmente fortalezco mis capacidades en detección y mitigación de amenazas a través de **Hack The Box Academy** y proyectos personales de laboratorio forense.
-
 ---
 
-## 🎓 Educación  
-
-- 🎓 **Ingeniería de Sistemas** – Universidad César Vallejo (UCV)  
-- 🌐 **Computación I – IV** *(Cisco Networking Academy)*: Redes, Routing, Switching y Ciberseguridad  
-- 🗣️ **Inglés** – Speexx Centro de Idiomas *(Nivel 6 – Básico/Intermedio)*  
-
----
 
 ## 🧰 Herramientas Clave  
 
