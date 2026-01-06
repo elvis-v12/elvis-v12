@@ -1,4 +1,4 @@
-# 🛡️ ¡Hola! Soy Elvis Antonio Vega Miranda  
+# 🛡️ ¡Hola! Soy Elvis Vega   
 
 🎯 **Analista Junior de Ciberseguridad (Blue Team | SOC)**  
 Apasionado por la defensa digital, el análisis forense y la detección de amenazas. Mi objetivo es proteger infraestructuras tecnológicas mediante la monitorización activa, la respuesta ante incidentes y la aplicación de buenas prácticas de seguridad.
