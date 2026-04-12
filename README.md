@@ -18,13 +18,13 @@ Soy **Analista de Ciberseguridad orientado al Blue Team**, con experiencia en:
 
 ## Herramientas Clave  
 
-![Wazuh](https://img.shields.io/badge/Wazuh-00599C?style=for-the-badge&logo=wazuh&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-FF0000?style=for-the-badge&logo=mitre&logoColor=white)
-![Security Onion](https://img.shields.io/badge/Security%20Onion-4B0082?style=for-the-badge)
-![Sysmon](https://img.shields.io/badge/Sysmon-000000?style=for-the-badge&logo=windows&logoColor=white)
+![Wazuh](https://wazuh.com/)
+![Wireshark](https://www.wireshark.org/)
+![Linux](https://www.kali.org/blog/)
+![Python](https://www.python.org/)
+![MITRE ATT&CK](https://attack.mitre.org/)
+![Security Onion](https://securityonionsolutions.com/hardware)
+![Sysmon](https://learn.microsoft.com/es-es/sysinternals/downloads/sysmon)
 
 ---
 
