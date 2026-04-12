@@ -41,7 +41,7 @@ Soy **Analista de Ciberseguridad orientado al Blue Team**, con experiencia en:
 - 💼 [LinkedIn](https://www.linkedin.com/in/elvis-antonio-vega-miranda-2a7848256/)  
 - 🧑‍💻 [GitHub](https://github.com/elvis-v12)  
 - 🧾 [ORCID](https://orcid.org/0000-0001-5647-8191)  
-- 📧 **evegami10@ucvvirtual.edu.pe**  
+- 📧 **elvisvegaucv@gmail.com**  
 - 📍 Lima, Perú  
 
 ---
