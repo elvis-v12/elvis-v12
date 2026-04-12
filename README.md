@@ -18,13 +18,13 @@ Soy **Analista de Ciberseguridad orientado al Blue Team**, con experiencia en:
 
 ## Herramientas Clave  
 
-![Wazuh](https://wazuh.com/)
-![Wireshark](https://www.wireshark.org/)
-![Linux](https://www.kali.org/blog/)
-![Python](https://www.python.org/)
-![MITRE ATT&CK](https://attack.mitre.org/)
-![Security Onion](https://securityonionsolutions.com/hardware)
-![Sysmon](https://learn.microsoft.com/es-es/sysinternals/downloads/sysmon)
+[![Wazuh](https://img.shields.io/badge/Wazuh-00A9E0?style=for-the-badge&logo=wazuh&logoColor=white)](https://wazuh.com/)
+[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/blog/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-FF6600?style=for-the-badge&logo=mitre&logoColor=white)](https://attack.mitre.org/)
+[![Security Onion](https://img.shields.io/badge/Security_Onion-6DA55F?style=for-the-badge&logo=security-onion&logoColor=white)](https://securityonionsolutions.com/)
+[![Sysmon](https://img.shields.io/badge/Sysmon-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://learn.microsoft.com/es-es/sysinternals/downloads/sysmon)
 
 ---
 
